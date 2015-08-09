@@ -5,7 +5,7 @@
 
 #define RND(x) ((x)*rand()/RAND_MAX)
 #define INF 2e10f
-#define PARTICLES 10
+#define PARTICLES 100
 
 time_t GetMicrosecondeNow();
 
